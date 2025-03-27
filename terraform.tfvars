@@ -1,0 +1,5 @@
+amiid = "ami-034488765f896f58f"
+instancename = "rakesh-server"
+instance-type = "t2.micro"
+yourprivatekey = "tfkey"
+yourregion = "ap-southeast-2"
