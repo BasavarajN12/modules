@@ -1,6 +1,6 @@
 
 
-resource "aws_instance" "my_insttance" {
+resource "aws_instance" "my_instance_name" {
   ami = var.amiid
   instance_type = var.instance-type
     key_name = var.yourprivatekey
